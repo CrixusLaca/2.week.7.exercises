@@ -1,0 +1,40 @@
+h1 {
+    font-weight: bolder;
+}
+
+.form {
+    width: 300px;
+}
+
+.form1 {
+    border: 2px;
+    border-style:solid;
+    border-top:none;
+    padding-top: 4%;
+
+    
+}
+
+.form0 {
+    border: 2px;
+    border-style:solid;
+    border-top: none;
+}
+
+.form2 {
+    border: 2px;
+    border-style:solid;
+    border-bottom: none;
+    border-top:none;
+    padding-top: 4%;
+}
+.form2:hover {
+    background-color: brown;
+ }
+
+.form1:hover {
+    background-color: brown;
+}
+.form0:hover {
+        background-color: brown;
+}
